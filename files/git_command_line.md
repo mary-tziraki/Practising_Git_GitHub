@@ -174,7 +174,7 @@ It is recommended to do another git status to check!
 
 $ git  status # Checks the branch if there are commits and shows the status> You will see there if a file has been modified (in colour) and needs to be staged and committed.
 
-** Output**
+**Output**
 ```
 On branch main
 nothing to commit, working tree clean
