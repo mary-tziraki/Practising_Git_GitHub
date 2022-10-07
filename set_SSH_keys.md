@@ -146,6 +146,7 @@ First, you need to copy the public key. Be sure to include the .pub at the end, 
 
  ```
 Now, going to GitHub.com, click on your profile icon in the top right corner to get the drop-down menu. Click “Settings,” then on the settings page on the left side at “Account settings” menu , click “SSH and GPG keys”.
+![GitHub add SSH](./fig/fig_2_ssh_atGitHub%20.jpg)
 
 ![GitHub add SSH](./fig/fig_3_ssh_atGitHub%20.jpg)
 
