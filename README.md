@@ -13,3 +13,5 @@ Please send me your GitHub account to add you as collaborator.
 - 7) Recipes 
 
 
+In the end, we could practice together writing recipes. 
+Please send me your GitHub account to add you as collaborator.
