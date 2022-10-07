@@ -107,6 +107,16 @@ $ cat README.md . # Shows the lines in the README.md file
 
 
 ## 3)	How to Stage the changes and how to commit into the repository Workflow commands
+## Summary of the git commands.
+
+```
+$ git  status # Checks the branch if there are commits and shows the status
+$ git add    filename1 filename2 directory/    # inserts files in the staging area
+$ git  commit –m “message -what we have changed” # saves the staged content as a new commit in the local  repository
+$ nano README.md  # Editor for the command line. Edit README.md file
+$ cat README.md. # Shows the lines in the README.md file
+```
+
 
 ## Add picture
 
