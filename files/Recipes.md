@@ -29,7 +29,7 @@ Hi I'm Mitch and I'm from the US. I also love cooking! Not so much baking, thoug
 #### Mary: Welcome Mitch 
 I can share a recipe for 
 
-
-
+### Mitch:  Updating Recipe Note
+let's go with granola!
 
 
