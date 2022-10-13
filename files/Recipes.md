@@ -24,7 +24,9 @@ I will share with you a recipe of:
  - salt 
  - paper
 
-
+### Mitch
+Hi I'm Mitch and I'm from the US. I also love cooking! Not so much baking, though... 
+I can share a recipe for 
 
 
 
