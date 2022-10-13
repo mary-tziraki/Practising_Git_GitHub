@@ -5,7 +5,8 @@ In this repository I want to demonstrate how to work with version control using 
 
 1) What is [**Version Control**](./files/version_control_with_git.md) how git is used.
 2) The basic [**Unix commands**](./files/The_Unix_Commands.md), frequently used in the command line.
-3) The [**Git Commands**](./files/git_command_line.md), frequently used 4) [**Set your SSH Keys**](./files/set_SSH_keys.md) 
+3) The [**Git Commands**](./files/git_command_line.md), frequently used 
+4) [**Set your SSH Keys**](./files/set_SSH_keys.md) 
 5) [**How to connect with GitHub**](./files/Connect_git_local_with_GitHub.md)
 6) [**Workflow for Team Coders**](./files/Workflow.md)
 
